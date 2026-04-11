@@ -1,6 +1,6 @@
 ## Number 1 Non-Compliant
 
-### Jed Elisha Santiago
+### Elisha Jed Santiago
 
 <!--
 
