@@ -1,7 +1,5 @@
 ## Number 1 Non-Compliant
 
-<span style="color:red">Elisha Jed Santiago</span>
-
 $${\color{red}Elisha \space Jed \space P. \space Santiago}$$
 
 
