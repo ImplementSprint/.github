@@ -1,6 +1,6 @@
 ## Number 1 Non-Compliant
 
-### $${\color{red}Elisha \color{blue}\space Jed \color{purple}\space Pacante \color{white}\space Santiago}$$
+### $${\color{red}Elisha \color{blue}\space Jed \color{purple}\space Pacate \color{white}\space Santiago}$$
 
 
 
