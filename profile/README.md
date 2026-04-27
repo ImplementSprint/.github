@@ -1,6 +1,6 @@
 ## Number 1 Non-Compliant
 
-### $${\color{red}E\color{orange}l\color{yellow}i\color{green}s\color{white}h\color{indigo}a \space \color{red}J\color{orange}e\color{yellow}d \space \color{green}P\color{white}a\color{indigo}c\color{blue}a\color{red}t\color{orange}e \space \color{yellow}S\color{green}a\color{white}n\color{indigo}t\color{blue}i\color{red}a\color{orange}g\color{yellow}o}$$
+### $${\color{red}E\color{orange}l\color{yellow}i\color{green}s\color{violet}h\color{white}a \space \color{red}J\color{orange}e\color{yellow}d \space \color{green}P\color{violet}a\color{white}c\color{blue}a\color{red}t\color{orange}e \space \color{yellow}S\color{green}a\color{violet}n\color{white}t\color{blue}i\color{red}a\color{orange}g\color{yellow}o}$$
 
 
 
